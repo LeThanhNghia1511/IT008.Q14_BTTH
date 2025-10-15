@@ -1,0 +1,16 @@
+D:\Desktop\Bai01\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\Desktop\Bai01\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Desktop\Bai01\Bai01\bin\Debug\Bai01.exe.config
+D:\Desktop\Bai01\Bai01\bin\Debug\Bai01.exe
+D:\Desktop\Bai01\Bai01\bin\Debug\Bai01.pdb
+D:\Desktop\Bai01\Bai01\obj\Debug\Bai01.exe
+D:\Desktop\Bai01\Bai01\obj\Debug\Bai01.pdb
+D:\Desktop\Bai01\Bai01\obj\Debug\Bai01.exe.config
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.exe.config
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.exe
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.pdb
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.exe.config
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.exe
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.pdb
