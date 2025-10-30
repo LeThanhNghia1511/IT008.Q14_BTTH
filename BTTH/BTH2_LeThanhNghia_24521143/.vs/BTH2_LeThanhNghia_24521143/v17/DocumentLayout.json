@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\bai05\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|solutionrelative:bai05\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\bai05\\townhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|solutionrelative:bai05\\townhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth2_lethanhnghia_24521143\\bai05\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|solutionrelative:bai05\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\bai05\\landmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|solutionrelative:bai05\\landmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF46C9B-17AA-4970-AC42-469044171D61}|Bai05\\Bai05.csproj|solutionrelative:bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Program.cs",
+              "RelativeDocumentMoniker": "Bai05\\Program.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Program.cs",
+              "RelativeToolTip": "Bai05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:31:20.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LandManager.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\LandManager.cs",
+              "RelativeDocumentMoniker": "Bai05\\LandManager.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\LandManager.cs",
+              "RelativeToolTip": "Bai05\\LandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:31:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Land.cs",
+              "RelativeDocumentMoniker": "Bai05\\Land.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Land.cs",
+              "RelativeToolTip": "Bai05\\Land.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:31:22.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TownHouse.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\TownHouse.cs",
+              "RelativeDocumentMoniker": "Bai05\\TownHouse.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\TownHouse.cs",
+              "RelativeToolTip": "Bai05\\TownHouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:31:24.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Apartment.cs",
+              "RelativeDocumentMoniker": "Bai05\\Apartment.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai05\\Apartment.cs",
+              "RelativeToolTip": "Bai05\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:31:25.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
