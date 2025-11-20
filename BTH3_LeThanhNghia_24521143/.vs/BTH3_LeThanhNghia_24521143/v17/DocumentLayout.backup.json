@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth3_lethanhnghia_24521143\\bai06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|solutionrelative:bai06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth3_lethanhnghia_24521143\\bai06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|solutionrelative:bai06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth3_lethanhnghia_24521143\\bai06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CB6A0-AA3A-40E0-B0FD-21C45BDBFCC9}|Bai06\\Bai06.csproj|solutionrelative:bai06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai06\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai06\\Form1.Designer.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAAANoBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:12:27.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai06\\Form1.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.cs",
+              "RelativeToolTip": "Bai06\\Form1.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAIwOEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:12:25.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai06\\Form1.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH3_LeThanhNghia_24521143\\Bai06\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:12:22.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

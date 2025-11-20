@@ -1,0 +1,11 @@
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\bin\Debug\Bai03.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\bin\Debug\Bai03.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH3_LeThanhNghia_24521143\Bai03\obj\Debug\Bai03.exe.config
