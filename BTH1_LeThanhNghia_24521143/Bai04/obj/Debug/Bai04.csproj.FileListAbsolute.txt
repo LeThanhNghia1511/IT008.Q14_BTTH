@@ -1,0 +1,16 @@
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.exe.config
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.exe
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.pdb
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.exe
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.pdb
+D:\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.exe.config
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.exe.config
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.exe
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\bin\Debug\Bai04.pdb
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.exe.config
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.exe
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai04\obj\Debug\Bai04.pdb

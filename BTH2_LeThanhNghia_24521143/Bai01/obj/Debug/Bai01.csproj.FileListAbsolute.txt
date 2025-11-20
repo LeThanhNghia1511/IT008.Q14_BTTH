@@ -1,0 +1,8 @@
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.exe.config
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\bin\Debug\Bai01.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\BTTH\BTH2_LeThanhNghia_24521143\Bai01\obj\Debug\Bai01.exe.config

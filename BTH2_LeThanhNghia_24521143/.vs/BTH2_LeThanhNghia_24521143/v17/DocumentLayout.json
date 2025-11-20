@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth2_lethanhnghia_24521143\\bai04\\fractionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|solutionrelative:bai04\\fractionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth2_lethanhnghia_24521143\\bai04\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|solutionrelative:bai04\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|c:\\users\\nghia\\onedrive\\ta\u0300i li\u00EA\u0323u\\uit\\hk1_2025-2026\\lttq\\btth\\bth2_lethanhnghia_24521143\\bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8BE935-CEEC-4B8E-B11C-157D078B02A7}|Bai04\\Bai04.csproj|solutionrelative:bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\Program.cs",
+              "RelativeDocumentMoniker": "Bai04\\Program.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\Program.cs",
+              "RelativeToolTip": "Bai04\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:09:37.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FractionArray.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\FractionArray.cs",
+              "RelativeDocumentMoniker": "Bai04\\FractionArray.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\FractionArray.cs",
+              "RelativeToolTip": "Bai04\\FractionArray.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:09:37.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\Fraction.cs",
+              "RelativeDocumentMoniker": "Bai04\\Fraction.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UIT\\HK1_2025-2026\\LTTQ\\BTTH\\BTH2_LeThanhNghia_24521143\\Bai04\\Fraction.cs",
+              "RelativeToolTip": "Bai04\\Fraction.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:09:36.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

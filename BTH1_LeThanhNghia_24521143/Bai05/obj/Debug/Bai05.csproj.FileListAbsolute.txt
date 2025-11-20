@@ -1,0 +1,7 @@
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\bin\Debug\Bai05.exe.config
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\bin\Debug\Bai05.exe
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\bin\Debug\Bai05.pdb
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\obj\Debug\Bai05.exe
+C:\Users\LE THANH NGHIA\Desktop\BTH1_LeThanhNghia_24521143\Bai05\obj\Debug\Bai05.pdb
